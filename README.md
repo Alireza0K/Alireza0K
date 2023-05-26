@@ -51,8 +51,14 @@ Hi there, I'm Alireza Karimi 😉, 18 years old **Wordpress Developer** and **Pr
   
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Alireza0K&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
   </P>
-  
+
   <br>
-  
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/Alireza0K/count.svg)
+
+</div>
+
+
  
  
