@@ -20,3 +20,11 @@ Hi there, I'm Alireza Karimi 😉, 18 years old **Wordpress Developer** and **Pr
 **Skills :** Laravel, PHP, HTML & CSS, JavaScript
 </br>
 **Tools :** Git, Github, VS Code
+
+**Current Status Quo:**
+----
+
+* 🔭 I’m currently working on **Team Working**.
+* 🌱 I’m currently learning **Laravel**.🤣
+* 💬 Ask me about anything in **PHP** or **Wordpress** and I would like to answer.
+* 📫 Please contact me via alireza.karimi.programmer@gmail.com
