@@ -28,3 +28,16 @@ Hi there, I'm Alireza Karimi 😉, 18 years old **Wordpress Developer** and **Pr
 * 🌱 I’m currently learning **Laravel**.🤣
 * 💬 Ask me about anything in **PHP** or **Wordpress** and I would like to answer.
 * 📫 Please contact me via alireza.karimi.programmer@gmail.com
+
+<h2 align="left">Connect With Me:</h2>
+
+<div align=center>
+
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alireza0K)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alireza.karimi.programmer@gmail.com)
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/Alirez0K)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alirez0k/)
+
+  
+</div>
