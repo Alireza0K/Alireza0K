@@ -1,5 +1,5 @@
 <h1 align="center">Keep Coding And Go To Infinity</h1>
-<h3 align="center">Web Developer<span color="blue"> & </span>Hard Worker <span color="blue"> & </span>Undergraduate Student CS</h3>
+<h3 align="center">Web, Console Apps and CV Developer<span color="blue"> & </span>Hard Worker <span color="blue"> & </span>Undergraduate Student CS</h3>
 
 
 ### Hello World! 👋🤖
@@ -25,7 +25,7 @@ Hi there, I'm Alireza Karimi 😉, 19 years old **php Developer** and **Programm
 ----
 
 * 🔭 I’m currently working on **Team Working**.
-* 👨‍💻 I’m currently learning **CV** on Python.🐍
+* 👨‍💻 I’m currently learning **CV** on Python.
 * 💬 Ask me about anything in **PHP**, **Wordpress** or **PYTHON** and I would like to answer.
 * 📫 Please contact me via alireza.karimi.programmer@gmail.com
 
