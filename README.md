@@ -17,7 +17,7 @@ Hi there, I'm Alireza Karimi 😉, 19 years old **php Developer** and **Programm
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47tf2tay8vcatp5wsnqlsqr5v2ips0rttcapzd3h9h&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 
-**Skills :** Laravel, PHP, HTML & CSS, JavaScript
+**Skills :** Python, Laravel, PHP, HTML & CSS, JavaScript
 </br>
 **Tools :** Git, Github, VS Code
 
@@ -25,8 +25,8 @@ Hi there, I'm Alireza Karimi 😉, 19 years old **php Developer** and **Programm
 ----
 
 * 🔭 I’m currently working on **Team Working**.
-* 👨‍💻 I’m currently learning **python**.🐍
-* 💬 Ask me about anything in **PHP** or **Wordpress** and I would like to answer.
+* 👨‍💻 I’m currently learning **CV** on Python.🐍
+* 💬 Ask me about anything in **PHP**, **Wordpress** or **PYTHON** and I would like to answer.
 * 📫 Please contact me via alireza.karimi.programmer@gmail.com
 
 <h2 align="left">Connect With Me:</h2>
