@@ -20,7 +20,6 @@ Hi there, I'm Alireza Karimi 😉, 21 years old **php Developer** and **Programm
 </br>
 **Tools :** Git, Github, VS Code
 <h2 style="border:0px; margin:0px; padding:0px" align="left"> Current Status Quo:</h2>
-<hr style="margin:0px; padding:0px; height:0.7px">
 
 * 🔭 I’m currently working on **Team Working**.
 * 👨‍💻 I’m currently learning **CV** on Python.
