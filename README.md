@@ -24,7 +24,7 @@ Hi there, I'm Alireza Karimi 😉, 21 years old **php Developer** and **Programm
 * 👨‍💻 I’m currently learning **CV** on Python.
 * 💬 Ask me about anything in **PHP**, **Wordpress** or **PYTHON** and I would like to answer.
 * 📫 Please contact me via alireza.karimi.programmer@gmail.com
-
+</br>
 <h2 align="left">Connect With Me:</h2>
 
 <div align=center>
