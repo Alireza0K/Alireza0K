@@ -21,7 +21,7 @@ Hi there, I'm Alireza Karimi 😉, 21 years old **php Developer** and **Programm
 **Tools :** Git, Github, VS Code
 
 **Current Status Quo:**
--
+<hr>
 
 * 🔭 I’m currently working on **Team Working**.
 * 👨‍💻 I’m currently learning **CV** on Python.
